@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Port39 e.V. Hackerspace Stralsund" width="200"/>
+<img src="https://raw.githubusercontent.com/Port39/.github/main/profile/logo.png" alt="Port39 e.V. Hackerspace Stralsund" width="200"/>
 
 Welcome to Port39 e.V., the hackerspace in Stralsund!
 
