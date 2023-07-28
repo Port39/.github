@@ -1,6 +1,6 @@
-## Hi there 👋
+<img src="logo.png" alt="Port39 e.V. Hackerspace Stralsund" width="200"/>
 
-Welcome to Port39, the hackerspace in Stralsund!
+Welcome to Port39 e.V., the hackerspace in Stralsund!
 
 
 <!--
